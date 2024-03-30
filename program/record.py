@@ -10,3 +10,12 @@ class Record:
 
   def DeleteRecord(self):
     #Модуль удаления записи
+
+  def SearchRecord(self):
+    #Модуль поиска по записям
+
+  def ImportRecord(self):
+    #Модуль импорта записей из файла
+
+  def ExproetRecord(self):
+    #Модуль экспорта записей в файл
