@@ -1,7 +1,3 @@
-class NewClass:
-  return
-
-
 class Record:
   def __init__(self):
     #Иницилазиция класса записи
